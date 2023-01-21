@@ -254,7 +254,7 @@ button {
 .author{
 	position:absolute;
 	top:50%;
-	right:15%;
+	right:17%;
 	font-size:200%;
 	text-align:center;
 }
@@ -274,14 +274,14 @@ button {
 
 .c2{
 	position:absolute;
-	top:40%;
-	right:35%;
+	top:45%;
+	right:15%;
 	width:70%;
 }
 
 .c3{
 	position:absolute;
-	right:35%;
+	right:15%;
 	top:5%;
 	width:70%;
 }
@@ -289,7 +289,7 @@ button {
 
 .c4{
 	position:absolute;
-	right:35%;
+	right:15%;
 	top:40%;
 	width:70%;
 }
@@ -321,7 +321,7 @@ button {
 
 .left{
 	position:absolute;
-	right:55%;
+	right:35%;
 	top:15%;
 	width:70%;
 	line-height:1.3;
@@ -330,7 +330,7 @@ button {
 
 .lt{
 	position:absolute;
-	right:65%;
+	right:35%;
 	top:5%;
 	width:70%;
 	line-height:1.3;
@@ -338,7 +338,7 @@ button {
 
 .rb{
 	position: absolute;
-	right:5%;
+	right:2%;
 	top:50%;
 	width:70%;
 	line-height:1.3;
@@ -360,14 +360,14 @@ button {
 	position:absolute;
 	top:13%;
 	right:3%;
-	width:70%;
+	width:80%;
 }
 
 .r2{
 	position:absolute;
-	top:25%;
+	top:30%;
 	right:3%;
 	line-height:1.3;
-	width:70%;
+	width:60%;
 }	
 }
