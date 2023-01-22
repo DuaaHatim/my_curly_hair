@@ -114,6 +114,25 @@ button {
 	text-align:center;
 }
 
+.author0{
+	position:absolute;
+	top:50%;
+	right:10%;
+	font-size:260%;
+	text-align:center;
+	display:inline-block;
+}
+
+.author1{
+	position:absolute;
+	top:60%;
+	right:10%;
+	font-size:260%;
+	text-align:center;
+	display:inline-block;
+}
+
+
 .center{
 	text-align:center;
 	font-size:220%;
