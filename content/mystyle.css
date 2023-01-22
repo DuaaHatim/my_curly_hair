@@ -403,7 +403,7 @@ button {
 .title{
 	position:absolute;
 	top:0;
-	right:7%;
+	right:10%;
 	font-size:240%;
 	text-align:center;
 }
@@ -412,14 +412,14 @@ button {
 .author{
 	position:absolute;
 	top:45%;
-	right:11%;
+	right:15%;
 	font-size:220%;
 	text-align:center;
 }
 
 .center{
 	text-align:center;
-	font-size:2200%;
+	font-size:220%;
 }
 
 .c1{
