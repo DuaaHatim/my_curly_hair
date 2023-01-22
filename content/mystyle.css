@@ -497,6 +497,45 @@ button {
 	text-align:center;
 }
 
+	
+.author0{
+	position:absolute;
+	top:45%;
+	right:10%;
+	font-size:220%;
+	text-align:center;
+}
+	
+.author1{
+	position:absolute;
+	top:45%;
+	right:70%;
+	font-size:220%;
+	text-align:center;
+}
+	
+.link0{
+	position:absolute;
+	bottom:30%;
+	right:10%;
+	font-size:220%;
+	text-align:center;
+}
+	
+.link1{
+	position:absolute;
+	bottom:30%;
+	right:70%;
+	font-size:220%;
+	text-align:center;
+}
+	
+a{
+	font-size:220%;
+	}
+
+
+
 .center{
 	text-align:center;
 	font-size:220%;
