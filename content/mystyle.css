@@ -386,7 +386,7 @@ button {
 
 }
 
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width1200px){
 	
 button {
 	font-size: 18px;
@@ -589,24 +589,24 @@ button {
 
 .c1{
 	position:absolute;
-	top:25%;
+	top:20%;
 	right:15%;
-	width:60%;
+	width:50%;
 	line-height:1.3;
 }
 
 .c2{
 	position:absolute;
-	top:35%;
+	top:30%;
 	right:15%;
-	width:60%;
+	width:50%;
 }
 
 .c3{
 	position:absolute;
 	right:15%;
 	top:2%;
-	width:70%;
+	width:50%;
 }
 
 
@@ -614,14 +614,14 @@ button {
 	position:absolute;
 	right:15%;
 	top:40%;
-	width:60%;
+	width:70%;
 }
 
 .c5{
 	position: absolute;
 	top:2%;
 	right:30%;
-	width:60%;
+	width:50%;
 }
 
 
@@ -629,7 +629,7 @@ button {
 	position:absolute;
 	right:20%;
 	top:2%;
-	width:60%;
+	width:50%;
 }
 
 
@@ -637,7 +637,7 @@ button {
 	position:absolute;
 	right:20%;
 	top:15%;
-	width:60%;
+	width:50%;
 	line-height:1.3;
 }
 
@@ -690,7 +690,7 @@ button {
 	position:absolute;
 	top:16%;
 	right:3%;
-	width:70%;
+	width:50%;
 	font-size:140%;
 }
 
@@ -699,7 +699,7 @@ button {
 	top:25%;
 	right:3%;
 	line-height:1.3;
-	width:50%;
+	width:45%;
 	font-size:140%;
 }	
 }
