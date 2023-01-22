@@ -117,7 +117,7 @@ button {
 .author0{
 	position:absolute;
 	top:50%;
-	right:10%;
+	right:20%;
 	font-size:260%;
 	text-align:center;
 }
@@ -125,7 +125,24 @@ button {
 .author1{
 	position:absolute;
 	top:50%;
-	right:60%;
+	right:70%;
+	font-size:260%;
+	text-align:center;
+}
+
+
+.link0{
+	position:absolute;
+	top:55%;
+	right:20%;
+	font-size:260%;
+	text-align:center;
+}
+
+.link1{
+	position:absolute;
+	top:55%;
+	right:70%;
 	font-size:260%;
 	text-align:center;
 }
