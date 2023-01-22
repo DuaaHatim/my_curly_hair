@@ -590,7 +590,7 @@ button {
 .c1{
 	position:absolute;
 	top:20%;
-	right:35%;
+	right:30%;
 	width:50%;
 	line-height:1.3;
 }
@@ -598,7 +598,7 @@ button {
 .c2{
 	position:absolute;
 	top:30%;
-	right:35%;
+	right:30%;
 	width:50%;
 }
 
@@ -620,22 +620,23 @@ button {
 .c5{
 	position: absolute;
 	top:2%;
-	right:35%;
+	right:30%;
 	width:60%;
 }
 
 
 .c6{
 	position:absolute;
-	right:35%;
+	right:30%;
 	top:0%;
 	width:50%;
+	padding-top:0;
 }
 
 
 .c7{
 	position:absolute;
-	right:35%;
+	right:30%;
 	top:7%;
 	width:60%;
 	line-height:1.3;
@@ -643,8 +644,8 @@ button {
 
 .c8{
 	position:absolute;
-	top:20%;
-	right:35%;
+	top:25%;
+	right:30%;
 	width:50%;
 	line-height:1.3;
 }
