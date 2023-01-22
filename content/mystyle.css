@@ -304,7 +304,7 @@ button {
 	
 .author0{
 	position:absolute;
-	top:45%;
+	top:55%;
 	right:10%;
 	font-size:220%;
 	text-align:center;
@@ -312,7 +312,7 @@ button {
 
 .author1{
 	position:absolute;
-	top:45%;
+	top:55%;
 	right:70%;
 	font-size:220%;
 	text-align:center;
@@ -500,7 +500,7 @@ button {
 	
 .author0{
 	position:absolute;
-	top:45%;
+	top:55%;
 	right:10%;
 	font-size:220%;
 	text-align:center;
@@ -508,8 +508,8 @@ button {
 	
 .author1{
 	position:absolute;
-	top:70%;
-	right:45%;
+	top:55%;
+	right:70%;
 	font-size:220%;
 	text-align:center;
 }
@@ -716,7 +716,7 @@ button {
 
 .link0{
 	position:absolute;
-	bottom:10%;
+	bottom:25%;
 	right:10%;
 	font-size:200%;
 	text-align:center;
@@ -724,7 +724,7 @@ button {
 	
 .link1{
 	position:absolute;
-	bottom:10%;
+	bottom:25%;
 	right:70%;
 	font-size:200%;
 	text-align:center;
@@ -908,7 +908,7 @@ button {
 	
 .author0{
 	position:absolute;
-	top:45%;
+	top:60%;
 	right:10%;
 	font-size:160%;
 	text-align:center;
@@ -916,7 +916,7 @@ button {
 	
 .author1{
 	position:absolute;
-	top:45%;
+	top:60%;
 	right:70%;
 	font-size:160%;
 	text-align:center;
@@ -924,7 +924,7 @@ button {
 	
 .link0{
 	position:absolute;
-	bottom:20%;
+	bottom:30%;
 	right:10%;
 	font-size:200%;
 	text-align:center;
@@ -932,14 +932,14 @@ button {
 	
 .link1{
 	position:absolute;
-	bottom:20%;
+	bottom:30%;
 	right:70%;
 	font-size:200%;
 	text-align:center;
 }
 
 a{
-	font-size:160%;
+	font-size:140%;
 	}
 
 .center{
