@@ -549,7 +549,7 @@ button {
 @media only screen and (max-width: 960px){
 	
 button {
-	font-size: 12px;
+	font-size: 15px;
 }
 
 .last{
@@ -557,7 +557,7 @@ button {
 	margin-right:auto;
 	position:absolute;
 	top:5%;
-	right:35%;
+	right:15%;
 	width:75%;
 	font-size:140%;
 	line-height:1;
@@ -569,13 +569,15 @@ button {
 	right:35%;
 	font-size:220%;
 	text-align:center;
+	margin-top:0;
+	padding-top:0;
 }
 
 
 .author{
 	position:absolute;
 	top:45%;
-	right:17%;
+	right:35%;
 	font-size:200%;
 	text-align:center;
 }
