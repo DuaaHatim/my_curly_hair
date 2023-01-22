@@ -910,7 +910,7 @@ button {
 	position:absolute;
 	top:45%;
 	right:10%;
-	font-size:200%;
+	font-size:190%;
 	text-align:center;
 }
 	
@@ -918,13 +918,13 @@ button {
 	position:absolute;
 	top:45%;
 	right:70%;
-	font-size:200%;
+	font-size:1900%;
 	text-align:center;
 }
 	
 .link0{
 	position:absolute;
-	bottom:30%;
+	bottom:20%;
 	right:10%;
 	font-size:200%;
 	text-align:center;
@@ -932,14 +932,14 @@ button {
 	
 .link1{
 	position:absolute;
-	bottom:30%;
+	bottom:20%;
 	right:70%;
 	font-size:200%;
 	text-align:center;
 }
 
 a{
-	font-size:200%;
+	font-size:190%;
 	}
 
 .center{
