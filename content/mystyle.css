@@ -299,8 +299,8 @@ button {
 .c5{
 	position: absolute;
 	top:2%;
-	right:35%;
-	width:40%;
+	right:50%;
+	width:30%;
 }
 
 
@@ -339,7 +339,7 @@ button {
 
 .lt{
 	position:absolute;
-	right:40%;
+	right:50%;
 	top:5%;
 	width:30%;
 	line-height:1.3;
