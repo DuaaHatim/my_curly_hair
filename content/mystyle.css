@@ -132,6 +132,7 @@ button {
 
 
 .link0{
+	color:orange;
 	position:absolute;
 	bottom:30%;
 	right:20%;
@@ -140,6 +141,7 @@ button {
 }
 
 .link1{
+	color:orange;
 	position:absolute;
 	bottom:30%;
 	right:70%;
