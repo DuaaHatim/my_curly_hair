@@ -500,7 +500,7 @@ button {
 	
 .author0{
 	position:absolute;
-	top:60%;
+	top:70%;
 	right:10%;
 	font-size:220%;
 	text-align:center;
@@ -508,7 +508,7 @@ button {
 	
 .author1{
 	position:absolute;
-	top:60%;
+	top:70%;
 	right:70%;
 	font-size:220%;
 	text-align:center;
@@ -716,7 +716,7 @@ button {
 
 .link0{
 	position:absolute;
-	bottom:30%;
+	bottom:20%;
 	right:10%;
 	font-size:200%;
 	text-align:center;
@@ -724,7 +724,7 @@ button {
 	
 .link1{
 	position:absolute;
-	bottom:30%;
+	bottom:20%;
 	right:35%;
 	font-size:200%;
 	text-align:center;
