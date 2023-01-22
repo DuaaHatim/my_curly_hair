@@ -926,7 +926,7 @@ button {
 	position:absolute;
 	top:70%;
 	right:35%;
-	font-size:200%;
+	font-size:140%;
 	text-align:center;
 }
 	
@@ -934,12 +934,12 @@ button {
 	position:absolute;
 	top:80%;
 	right:35%;
-	font-size:200%;
+	font-size:140%;
 	text-align:center;
 }
 
 a{
-	font-size:160%;
+	font-size:140%;
 	}
 
 .center{
