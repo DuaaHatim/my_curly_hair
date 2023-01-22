@@ -120,16 +120,14 @@ button {
 	right:10%;
 	font-size:260%;
 	text-align:center;
-	display:inline-block;
 }
 
 .author1{
 	position:absolute;
-	top:60%;
-	right:10%;
+	top:50%;
+	right:60%;
 	font-size:260%;
 	text-align:center;
-	display:inline-block;
 }
 
 
