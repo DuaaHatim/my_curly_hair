@@ -304,7 +304,7 @@ button {
 	
 .author0{
 	position:absolute;
-	top:55%;
+	top:65%;
 	right:10%;
 	font-size:220%;
 	text-align:center;
@@ -312,7 +312,7 @@ button {
 
 .author1{
 	position:absolute;
-	top:55%;
+	top:65%;
 	right:70%;
 	font-size:220%;
 	text-align:center;
@@ -500,7 +500,7 @@ button {
 	
 .author0{
 	position:absolute;
-	top:50%;
+	top:60%;
 	right:10%;
 	font-size:220%;
 	text-align:center;
@@ -508,7 +508,7 @@ button {
 	
 .author1{
 	position:absolute;
-	top:50%;
+	top:60%;
 	right:70%;
 	font-size:220%;
 	text-align:center;
@@ -698,6 +698,49 @@ button {
 	text-align:center;
 }
 
+.author0{
+	position:absolute;
+	top:45%;
+	right:10%;
+	font-size:200%;
+	text-align:center;
+}
+	
+.author1{
+	position:absolute;
+	top:45%;
+	right:70%;
+	font-size:200%;
+	text-align:center;
+}
+
+.link0{
+	position:absolute;
+	bottom:30%;
+	right:10%;
+	font-size:200%;
+	text-align:center;
+}
+	
+.link1{
+	position:absolute;
+	bottom:30%;
+	right:35%;
+	font-size:200%;
+	text-align:center;
+}
+	
+a{
+	font-size:200%;
+	}
+
+
+
+
+
+
+
+	
 .center{
 	text-align:center;
 	font-size:160%;
@@ -862,6 +905,42 @@ button {
 	font-size:200%;
 	text-align:center;
 }
+	
+.author0{
+	position:absolute;
+	top:45%;
+	right:10%;
+	font-size:200%;
+	text-align:center;
+}
+	
+.author1{
+	position:absolute;
+	top:45%;
+	right:70%;
+	font-size:200%;
+	text-align:center;
+}
+	
+.link0{
+	position:absolute;
+	bottom:30%;
+	right:10%;
+	font-size:200%;
+	text-align:center;
+}
+	
+.link1{
+	position:absolute;
+	bottom:30%;
+	right:70%;
+	font-size:200%;
+	text-align:center;
+}
+
+a{
+	font-size:200%;
+	}
 
 .center{
 	text-align:center;
